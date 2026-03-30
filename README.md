@@ -1,2 +1,2 @@
 # Snake
-Complete version, no longere crashes if any issues are found please inform me.
+Complete version, no longer crashes if any issues are found please inform me.
